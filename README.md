@@ -29,7 +29,6 @@ Project is: _under development_
 ## Acknowledgements
 From Ali Kutluözen Discord Server
 - [Mert Bozkır](https://github.com/mertbozkir) for huge help.
-- [Enisizm](https://github.com/Enisizm) for huge help.
 
 ## Contact
 Created by [@uintptr](https://twitter.com/uintptr) - feel free to contact me!
